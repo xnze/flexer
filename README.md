@@ -1,2 +1,2 @@
 # roblox-scripts
-A robloxs cripts website.
+A roblox scripts website.
